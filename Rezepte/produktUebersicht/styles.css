@@ -1,0 +1,21 @@
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 25px;
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+img {
+    border: 5px double black;
+    border-radius: 15px;
+    max-width: 250px;
+    height: 250px;
+    background-attachment: fixed;
+    background-size: cover;
+    display: block;
+    margin: 20px;
+}
