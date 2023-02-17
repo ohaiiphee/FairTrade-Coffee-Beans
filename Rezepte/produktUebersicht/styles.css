@@ -19,11 +19,17 @@ img {
     display: block;
     margin: 20px;
 }
+<<<<<<< HEAD
 :x
 body {
 	background-color:#FCD7C4}
 .body
 	{
 body 	background-color:#FCD7C4}
+=======
+
+body {
+	background-color:#FCD7C4}
+>>>>>>> 5b0dd7763581f26c73a5fcd4540b98acec118912
 
 h1	{text-decoration: underline-dotted;}
