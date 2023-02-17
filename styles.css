@@ -4,3 +4,16 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+
+.title {
+
+}
+
+.text {
+    width: 1800px;
+    margin: auto;
+    background-color: rgb(230,230,230);
+    padding-left: 10px;
+    border: 5px double black;
+    border-radius: 15px;
+}
