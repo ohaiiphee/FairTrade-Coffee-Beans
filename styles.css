@@ -3,10 +3,18 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
 }
 
 .title {
-
+    margin: auto;
+    background-color: rgb(230,230,230);
+    padding-left: 10px;
+    border-radius: 15px;
+    max-width: fit-content;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .text {
