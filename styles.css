@@ -26,3 +26,13 @@ body {
     border-radius: 15px;
 }
 
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover, a:active {
+    text-decoration: dotted;
+    color: lightcoral;
+}
+
