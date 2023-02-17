@@ -9,16 +9,28 @@ body {
 
 .title {
     margin: auto;
-    background-color: rgb(230,230,230);
-    padding-left: 10px;
-    border-radius: 15px;
+    background-color: rgb(240,240,240);
+    border-radius:0%;
+    text-align: center;
     max-width: fit-content;
     padding-left: 10px;
     padding-right: 10px;
 }
 
+h1 {
+    text-decoration-line: underline;
+}
+
+.untertitle {
+    font-style: italic;
+    font-variant: small-caps;
+    font-size: x-large;
+}
+
+
+
 .text {
-    width: 1800px;
+    max-width: fit-content;
     margin: auto;
     background-color: rgb(230,230,230);
     padding-left: 10px;
