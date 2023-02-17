@@ -18,7 +18,12 @@ img {
     background-size: cover;
     display: block;
     margin: 20px;
+    background-color: #D5B4A4
 }
+
+.body
+	{
+body 	background-color:#FCD7C4}
 
 body {
 	background-color:#FCD7C4}
